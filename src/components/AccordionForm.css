@@ -1,0 +1,8 @@
+.main-form {
+  color: red;
+}
+
+.accordion-title {
+  color: var(--accordionheader);
+  font-size: 24px;
+}

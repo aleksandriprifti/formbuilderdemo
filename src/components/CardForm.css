@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: var(--accordionheader);
+  margin: 40px;
+}
+
+.main-button-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-style-save {
+  border-radius: 8px;
+  min-width: 200px;
+  height: 50px;
+  background-color: #3865fe;
+  cursor: pointer;
+}
+
+.button-style-submit {
+  border-radius: 5px;
+  min-width: 200px;
+  height: 50px;
+  cursor: pointer;
+}

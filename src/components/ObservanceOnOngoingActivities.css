@@ -1,0 +1,7 @@
+@import "./GlobalAttributes.css";
+
+.main-form {
+  background-color: var(--backgroundcolor);
+  padding: 10px;
+  color: var(--accordionheader);
+}
